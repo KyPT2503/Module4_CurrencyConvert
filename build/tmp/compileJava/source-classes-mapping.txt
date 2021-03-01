@@ -4,3 +4,5 @@ config/AppInit.java
  config.AppInit
 controller/CurrencyController.java
  controller.CurrencyController
+controller/TranslateController.java
+ controller.TranslateController
